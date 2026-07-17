@@ -1,0 +1,80 @@
+/* Your styles here */
+
+body {
+    font-family: sans-serif;
+    background-color: #f0f0f0;
+    
+}
+
+h1 {
+    color: #333;
+}
+
+.texter {
+    color: rgb(9, 165, 113);
+    size: 10px;
+}
+
+.button1 {
+    background-color: bisque;
+    padding: 50px;
+    cursor: pointer;
+}
+.text {
+    color: rgb(138, 93, 93);
+    
+}
+
+.button2 {
+    background-color: beige;
+    padding: 50px;
+    cursor: pointer;
+}
+.button {
+    padding: 50px ;
+    background-color: aqua;
+    cursor: pointer;
+
+}
+
+.button3 {
+    background-color: thistle;
+    padding: 50px;
+    cursor: pointer;
+}
+
+.gpt {
+    background-color: tomato;
+}
+
+.gemini {
+    background-color: turquoise;
+}
+
+.claude {
+    background-color: rgb(240, 17, 28);
+}
+
+.seek {
+    background-color: rgb(0, 183, 255);
+}
+
+.vs {
+    background-color: steelblue;
+}
+
+.trae {
+    background-color: rgb(20, 194, 20);
+}
+
+.meta {
+    background-color: rgb(0, 17, 255);
+}
+
+.copilot {
+    background-color: rgb(238, 255, 0);
+}
+
+.perplexity {
+    background-color: crimson;
+}
